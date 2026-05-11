@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neovni nor Fadlil or Bashir
-- 👀 I’m interested in Mechanicals Keyboard and Wireless thing
-- 🌱 I’m currently learning Arduino for IoT's
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Pythons and Networking
 - 📫 How to reach me? Reach me at instagram @dlibashakim_
 
 <!---
