@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neovni nor Fadlil or Bashir
+- 👋 Hi, I’m @Neovni 
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Pythons and Networking
 - 📫 How to reach me? Reach me at instagram @dlibashakim_
